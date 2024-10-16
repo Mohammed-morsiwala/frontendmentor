@@ -34,7 +34,7 @@
     border-radius: 20px;
     padding: 24px;
     max-width: 375px;
-    box-shadow: 16px 16px 0 var(--color-black);
+    box-shadow: 24px 24px 0 var(--color-black);
   }
   
   .card:hover {
@@ -89,7 +89,7 @@
   
   .card__author-name {
     font-weight: 800;
-    color: var(--color-black);
+    color: var(--color-white);
   }
   
   .attribution {
